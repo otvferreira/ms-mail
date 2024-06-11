@@ -1,0 +1,6 @@
+com\msmail\ms_mail\model\Mail.class
+com\msmail\ms_mail\repositories\MailRepository.class
+com\msmail\ms_mail\model\dto\MailDTO.class
+com\msmail\ms_mail\controller\MailController.class
+com\msmail\ms_mail\MsMailApplication.class
+com\msmail\ms_mail\service\MailService.class
